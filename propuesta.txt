@@ -1,0 +1,8 @@
+                       Propuesta de proyecto 
+                    Cesar Amilkar Rivera Covarrubias 
+
+          Seleccion de ataque en un emulador de batallas pokemon 
+
+Habra structuras en el programa que trataran de imitar la programacion orientada a objetos, en este caso cada objeto sera un pokemon 
+los cuales tendran caracteristicas especiales, al igual que los "ataques", y se hara una comparacion entre ambos, el objetivo es hacer un algoritmo de seleccion para que dentro de la emulacion de una batalla pokemon,por medio  del historia de la batalla y otros datos, el algoritmo pueda determinar el mejor "ataque". 
+Cabe resaltar que se programara el emulador desde 0, sera bastante sencillo, se limitara a imprimir las secuencias por consola. 

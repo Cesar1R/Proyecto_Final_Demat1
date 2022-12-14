@@ -1,0 +1,37 @@
+Ventajas 
+
+	Tipo 		Normal		Roca	 Fantasma 
+	Normal 		x1			x0.5	 x0
+	Agua 		x1 			x2		 x1 
+	Fuego 		x1			x0.5	 x1 	
+
+
+Desventajas 
+	Tipo		Normal		Agua 	Fuego 
+	Normal 		x1 			x1		x1
+	Roca 		x1			x1		x2
+	Fantasma 	x0 			x1		x1 
+
+
+
+Pokemon 
+	Agua	Wartortle	Dunsparce  
+	Fuego	Vulpix		Entei 
+	Normal 	Meowth		Zangoose 
+	Roca 	Sudowoodo 	Cranidos 	
+	Fantasma Misdreavus Dusknoir 
+
+
+Type
+
+	Fuego 	1 
+	Agua 	2
+	Normal 	3
+	Roca 	4
+	Fantasma 5  
+
+
+
+
+
+
